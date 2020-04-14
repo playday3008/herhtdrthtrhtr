@@ -121,7 +121,7 @@ public:
 	// Virtual functions
 	VF( m_bIsPlayer, bool, 157 );
 	VF( m_bIsWeapon, bool, 165 );
-	VF( UpdateClientSideAnimations, void, 222 );
+	VF( UpdateClientSideAnimations, void, 223 );
 	VF( GetAbsOrigin, Vec3D, 10 );
 
 	// Netvars
